@@ -1,6 +1,16 @@
 ## Hey there!👋
 
-I'm a web developer starting my journey into a career in programming!  I have experience in HTML5, CSS3, and JavaScript, as well as React.js, PostgresQL, and Node.js.
+I'm a full stack web developer starting my journey into a career in programming after recently finished a web dev course from LearningFuze!
+
+#### 📫How to reach me: 
+Email: jc91765@gmail.com
+
+[My LinkedIn](https://www.linkedin.com/in/jonathan-chiang-ab837873/)
+
+
+## What I know
+ Coding in: HTML5, CSS3, and JavaScript
+ Tools: React.js, PostgresQL, Node.js, npm, Heroku, Express, Babel, Webpack, Slack, Git
 
 
 ## My Story
@@ -14,7 +24,7 @@ Short version:I started off in architecture with an interest in design and probl
 Though I initially had some regret leaving the architecture since I spent a long time working towards it, I later realized I wouldn’t have learned a lot of important skills such as presentations, research, and making use of precedent design without having gone to architecture school. Also from working, how to talk with clients and users and understand their wants and needs, and knowing what is possible. So I found I did still have a love of problem solving through design, just not necessarily through buildings. I also saw in programming parallels to architecture, in how they both turn an abstract set of instructions into something functional and visually appealing to a user. I started with self learning through videos and tutorial sites such as FreeCodeCamp, before enrolling in LearningFuze's full stack web developer program. Now that I'm done with the program, I'm ready and eager to start my new career path as a developer!
 
 
-**Fun fact:**  Architects refer to programming as deciding project needs, where spaces go in a building and how they connect to meet those needs, and it's not uncommon to hear the phrase "programming a space". So I've seen a fair bit of confusion when an architect talks about "program" to someone in the tech world.
+*⚡ Fun fact*  Architects refer to programming as deciding project needs, where spaces go in a building and how they connect to meet those needs, and it's not uncommon to hear the phrase "programming a space". So I've seen a fair bit of confusion when an architect talks about "program" to someone in the tech world.
 
 
 
