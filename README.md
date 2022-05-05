@@ -9,8 +9,9 @@ Email: jc91765@gmail.com
 
 
 ## What I know
- Coding in: HTML5, CSS3, and JavaScript
- Tools: React.js, PostgresQL, Node.js, npm, Heroku, Express, Babel, Webpack, Slack, Git
+ **Coding in:** HTML5, CSS3, and JavaScript
+ 
+ **Tools:** React.js, PostgresQL, Node.js, npm, Heroku, Express, Babel, Webpack, Slack, Git
 
 
 ## My Story
