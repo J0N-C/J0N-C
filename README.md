@@ -29,7 +29,8 @@ Though I initially had some regret leaving the architecture since I spent a long
 
 *Fun fact:*  Architects refer to programming as deciding project needs, where spaces go in a building and how they connect to meet those needs, and it's not uncommon to hear the phrase "programming a space". So I've seen a fair bit of confusion when an architect uses the word "programming" to someone in the tech world.
 
-See my featured github projects below:
+See my featured github projects below!
+
 Or if you're still curious about my previous architecture work, link to my old [architecture portfolio](https://issuu.com/jchiang91765/docs/portfolio_d9a2226ba4be14)
 
 
