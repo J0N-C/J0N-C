@@ -2,7 +2,13 @@
 
 I'm a full stack web developer starting my journey into a career in programming after recently finished a web dev course from LearningFuze!
 
-#### 📫How to reach me: 
+## My Projects
+
+**[Recipe Deck](recipe-deck.herokuapp.com/)**
+
+**[previously today...](https://j0n-c.github.io/previously-today/)**
+
+## 📫How to reach me: 
 Email: jc91765@gmail.com
 
 [My Resume](https://github.com/J0N-C/J0N-C/blob/main/Jonathan_Chiang_Resume.pdf)
