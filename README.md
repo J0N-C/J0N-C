@@ -4,7 +4,7 @@ I'm a full stack web developer starting my journey into a career in programming 
 
 ## My Projects
 
-**[Recipe Deck](https://recipe-deck.herokuapp.com/)**
+**[Recipe Deck](https://github.com/J0N-C/recipe-deck)**
 
 **[previously today...](https://j0n-c.github.io/previously-today/)**
 
