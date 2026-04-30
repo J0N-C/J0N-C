@@ -37,7 +37,7 @@ Though I initially had some regret leaving the architecture since I spent a long
 
 See my featured github projects below!
 
-Or if you're still curious about my previous architecture work, link to my old architecture portfolio:
+Or if you're still curious about my previous architecture work, link to my [old architecture portfolio here](https://github.com/J0N-C/J0N-C/blob/main/Old_Architecture_portfolio.pdf)
 
 
 <!--
