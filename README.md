@@ -1,6 +1,6 @@
 ## Hey there!👋
 
-I'm currently a software engineer who hasn't had as much time to work on personal projects, but these are some which I had worked on while starting journey into a career in programming, after finishing a web dev course from LearningFuze!
+I'm currently a software engineer who hasn't had as much time to work on personal projects. But, these are some which I had worked on while starting journey into a career in programming, after finishing a web dev course from LearningFuze!
 
 ## My Projects
 
