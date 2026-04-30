@@ -1,6 +1,6 @@
 ## Hey there!👋
 
-I'm a junior full stack web developer who recently started a journey into a career in programming, after finishing a web dev course from LearningFuze!
+I'm currently a software engineer who hasn't had as much time to work on personal projects, but these are some which I had worked on while starting journey into a career in programming, after finishing a web dev course from LearningFuze!
 
 ## My Projects
 
@@ -17,7 +17,7 @@ Email: jc91765@gmail.com
 
 
 ## What I know
- **Coding in:** HTML5, CSS3, and JavaScript
+ **Coding in:** Java, C++, HTML5, CSS3, JavaScript, bits of various scripting languages like shell, perl, python.
  
  **Tools:** React.js, PostgresQL, Node.js, npm, Heroku, Express, Babel, Webpack, Slack, Git
 
