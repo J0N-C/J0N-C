@@ -37,7 +37,7 @@ Though I initially had some regret leaving the architecture since I spent a long
 
 See my featured github projects below!
 
-Or if you're still curious about my previous architecture work, link to my old [architecture portfolio](https://issuu.com/jchiang91765/docs/portfolio_d9a2226ba4be14)
+Or if you're still curious about my previous architecture work, link to my old architecture portfolio:
 
 
 <!--
